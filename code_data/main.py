@@ -63,7 +63,7 @@ class LeaderboardAPI(object):
 
 		return formatJSON(tempDatesSorted)
 
-# Injest API method #1, allows to export the data from the system
+	# Injest API method #1, allows to export the data from the system
 	@cherrypy.expose
 	def dataExport(self):
 		return formatJSON(data)
