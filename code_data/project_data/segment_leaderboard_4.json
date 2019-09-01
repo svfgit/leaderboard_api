@@ -1,0 +1,23 @@
+{
+    "effort_count": 302,
+    "entry_count": 302,
+    "kom_type": null,
+    "entries": [
+        {
+            "athlete_name": "Paige B.",
+            "elapsed_time": 1845,
+            "moving_time": 1510,
+            "start_date": "2019-07-27T11:51:35Z",
+            "start_date_local": "2019-07-27T06:51:35Z",
+            "rank": 301
+        },
+        {
+            "athlete_name": "Silvia P.",
+            "elapsed_time": 1983,
+            "moving_time": 1770,
+            "start_date": "2019-07-27T15:30:52Z",
+            "start_date_local": "2019-07-27T10:30:52Z",
+            "rank": 302
+        }
+    ]
+}

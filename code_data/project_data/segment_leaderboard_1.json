@@ -1,0 +1,807 @@
+{
+  "effort_count": 302,
+  "entry_count": 302,
+  "kom_type": null,
+  "entries": [
+      {
+          "athlete_name": "Alexander D.",
+          "elapsed_time": 652,
+          "moving_time": 652,
+          "start_date": "2019-07-27T13:15:40Z",
+          "start_date_local": "2019-07-27T08:15:40Z",
+          "rank": 1
+      },
+      {
+          "athlete_name": "Cameron K.",
+          "elapsed_time": 653,
+          "moving_time": 653,
+          "start_date": "2019-07-27T13:15:38Z",
+          "start_date_local": "2019-07-27T08:15:38Z",
+          "rank": 2
+      },
+      {
+          "athlete_name": "Kenny G.",
+          "elapsed_time": 696,
+          "moving_time": 696,
+          "start_date": "2019-07-26T11:58:23Z",
+          "start_date_local": "2019-07-26T06:58:23Z",
+          "rank": 3
+      },
+      {
+          "athlete_name": "Adam H.",
+          "elapsed_time": 708,
+          "moving_time": 708,
+          "start_date": "2019-07-25T22:13:24Z",
+          "start_date_local": "2019-07-25T17:13:24Z",
+          "rank": 4
+      },
+      {
+          "athlete_name": "Rory T.",
+          "elapsed_time": 735,
+          "moving_time": 713,
+          "start_date": "2019-07-28T13:01:43Z",
+          "start_date_local": "2019-07-28T08:01:43Z",
+          "rank": 5
+      },
+      {
+          "athlete_name": "Matt P.",
+          "elapsed_time": 738,
+          "moving_time": 738,
+          "start_date": "2019-07-25T11:26:37Z",
+          "start_date_local": "2019-07-25T06:26:37Z",
+          "rank": 6
+      },
+      {
+          "athlete_name": "Enrique C.",
+          "elapsed_time": 740,
+          "moving_time": 740,
+          "start_date": "2019-07-28T12:35:27Z",
+          "start_date_local": "2019-07-28T07:35:27Z",
+          "rank": 7
+      },
+      {
+          "athlete_name": "Tyler G.",
+          "elapsed_time": 742,
+          "moving_time": 742,
+          "start_date": "2019-07-25T13:05:45Z",
+          "start_date_local": "2019-07-25T08:05:45Z",
+          "rank": 8
+      },
+      {
+          "athlete_name": "Allen S.",
+          "elapsed_time": 743,
+          "moving_time": 743,
+          "start_date": "2019-07-28T12:35:25Z",
+          "start_date_local": "2019-07-28T07:35:25Z",
+          "rank": 9
+      },
+      {
+          "athlete_name": "Austin D.",
+          "elapsed_time": 746,
+          "moving_time": 746,
+          "start_date": "2019-07-27T12:17:39Z",
+          "start_date_local": "2019-07-27T07:17:39Z",
+          "rank": 10
+      },
+      {
+          "athlete_name": "Eric R.",
+          "elapsed_time": 750,
+          "moving_time": 750,
+          "start_date": "2019-07-24T12:41:52Z",
+          "start_date_local": "2019-07-24T07:41:52Z",
+          "rank": 11
+      },
+      {
+          "athlete_name": "Tony Z.",
+          "elapsed_time": 756,
+          "moving_time": 756,
+          "start_date": "2019-07-25T23:28:21Z",
+          "start_date_local": "2019-07-25T18:28:21Z",
+          "rank": 12
+      },
+      {
+          "athlete_name": "Maximo M.",
+          "elapsed_time": 764,
+          "moving_time": 764,
+          "start_date": "2019-07-26T23:49:38Z",
+          "start_date_local": "2019-07-26T18:49:38Z",
+          "rank": 13
+      },
+      {
+          "athlete_name": "Josh Q.",
+          "elapsed_time": 767,
+          "moving_time": 767,
+          "start_date": "2019-07-26T13:07:05Z",
+          "start_date_local": "2019-07-26T08:07:05Z",
+          "rank": 14
+      },
+      {
+          "athlete_name": "Fatty A.",
+          "elapsed_time": 771,
+          "moving_time": 771,
+          "start_date": "2019-07-25T13:15:30Z",
+          "start_date_local": "2019-07-25T08:15:30Z",
+          "rank": 15
+      },
+      {
+          "athlete_name": "Matt B.",
+          "elapsed_time": 773,
+          "moving_time": 773,
+          "start_date": "2019-07-24T21:21:31Z",
+          "start_date_local": "2019-07-24T16:21:31Z",
+          "rank": 16
+      },
+      {
+          "athlete_name": "Michael L.",
+          "elapsed_time": 776,
+          "moving_time": 776,
+          "start_date": "2019-07-27T12:06:10Z",
+          "start_date_local": "2019-07-27T07:06:10Z",
+          "rank": 17
+      },
+      {
+          "athlete_name": "Aidan V.",
+          "elapsed_time": 782,
+          "moving_time": 782,
+          "start_date": "2019-07-27T13:37:41Z",
+          "start_date_local": "2019-07-27T08:37:41Z",
+          "rank": 18
+      },
+      {
+          "athlete_name": "Clayton P.",
+          "elapsed_time": 784,
+          "moving_time": 784,
+          "start_date": "2019-07-28T11:57:09Z",
+          "start_date_local": "2019-07-28T06:57:09Z",
+          "rank": 19
+      },
+      {
+          "athlete_name": "Ashish P.",
+          "elapsed_time": 786,
+          "moving_time": 730,
+          "start_date": "2019-07-28T13:25:03Z",
+          "start_date_local": "2019-07-28T08:25:03Z",
+          "rank": 20
+      },
+      {
+          "athlete_name": "David F.",
+          "elapsed_time": 790,
+          "moving_time": 731,
+          "start_date": "2019-07-28T13:25:02Z",
+          "start_date_local": "2019-07-28T08:25:02Z",
+          "rank": 21
+      },
+      {
+          "athlete_name": "Stephen M.",
+          "elapsed_time": 792,
+          "moving_time": 788,
+          "start_date": "2019-07-25T12:22:01Z",
+          "start_date_local": "2019-07-25T07:22:01Z",
+          "rank": 22
+      },
+      {
+          "athlete_name": "Jake S.",
+          "elapsed_time": 803,
+          "moving_time": 803,
+          "start_date": "2019-07-22T13:29:40Z",
+          "start_date_local": "2019-07-22T08:29:40Z",
+          "rank": 23
+      },
+      {
+          "athlete_name": "Scott M.",
+          "elapsed_time": 806,
+          "moving_time": 806,
+          "start_date": "2019-07-28T13:09:04Z",
+          "start_date_local": "2019-07-28T08:09:04Z",
+          "rank": 24
+      },
+      {
+          "athlete_name": "Collin F.",
+          "elapsed_time": 808,
+          "moving_time": 697,
+          "start_date": "2019-07-25T23:24:08Z",
+          "start_date_local": "2019-07-25T18:24:08Z",
+          "rank": 25
+      },
+      {
+          "athlete_name": "Sarah J.",
+          "elapsed_time": 810,
+          "moving_time": 810,
+          "start_date": "2019-07-25T00:25:35Z",
+          "start_date_local": "2019-07-24T19:25:35Z",
+          "rank": 26
+      },
+      {
+          "athlete_name": "Jae K.",
+          "elapsed_time": 819,
+          "moving_time": 819,
+          "start_date": "2019-07-23T01:37:21Z",
+          "start_date_local": "2019-07-22T20:37:21Z",
+          "rank": 27
+      },
+      {
+          "athlete_name": "Dan H.",
+          "elapsed_time": 819,
+          "moving_time": 819,
+          "start_date": "2019-07-26T12:45:54Z",
+          "start_date_local": "2019-07-26T07:45:54Z",
+          "rank": 27
+      },
+      {
+          "athlete_name": "Pablo G.",
+          "elapsed_time": 820,
+          "moving_time": 820,
+          "start_date": "2019-07-25T11:56:42Z",
+          "start_date_local": "2019-07-25T06:56:42Z",
+          "rank": 29
+      },
+      {
+          "athlete_name": "Wayne L.",
+          "elapsed_time": 821,
+          "moving_time": 806,
+          "start_date": "2019-07-28T13:02:30Z",
+          "start_date_local": "2019-07-28T08:02:30Z",
+          "rank": 30
+      },
+      {
+          "athlete_name": "Cooper F.",
+          "elapsed_time": 824,
+          "moving_time": 824,
+          "start_date": "2019-07-22T22:51:59Z",
+          "start_date_local": "2019-07-22T17:51:59Z",
+          "rank": 31
+      },
+      {
+          "athlete_name": "Ryan P.",
+          "elapsed_time": 827,
+          "moving_time": 827,
+          "start_date": "2019-07-22T17:01:52Z",
+          "start_date_local": "2019-07-22T12:01:52Z",
+          "rank": 32
+      },
+      {
+          "athlete_name": "Alexander J.",
+          "elapsed_time": 827,
+          "moving_time": 827,
+          "start_date": "2019-07-28T19:14:39Z",
+          "start_date_local": "2019-07-28T14:14:39Z",
+          "rank": 32
+      },
+      {
+          "athlete_name": "Ted D.",
+          "elapsed_time": 831,
+          "moving_time": 831,
+          "start_date": "2019-07-24T11:24:31Z",
+          "start_date_local": "2019-07-24T06:24:31Z",
+          "rank": 34
+      },
+      {
+          "athlete_name": "Ross B.",
+          "elapsed_time": 831,
+          "moving_time": 831,
+          "start_date": "2019-07-24T17:32:19Z",
+          "start_date_local": "2019-07-24T12:32:19Z",
+          "rank": 34
+      },
+      {
+          "athlete_name": "Zoltan S.",
+          "elapsed_time": 832,
+          "moving_time": 832,
+          "start_date": "2019-07-27T13:05:22Z",
+          "start_date_local": "2019-07-27T08:05:22Z",
+          "rank": 36
+      },
+      {
+          "athlete_name": "Aaron R.",
+          "elapsed_time": 837,
+          "moving_time": 837,
+          "start_date": "2019-07-24T12:42:52Z",
+          "start_date_local": "2019-07-24T07:42:52Z",
+          "rank": 37
+      },
+      {
+          "athlete_name": "Neil S.",
+          "elapsed_time": 839,
+          "moving_time": 839,
+          "start_date": "2019-07-22T12:13:26Z",
+          "start_date_local": "2019-07-22T07:13:26Z",
+          "rank": 38
+      },
+      {
+          "athlete_name": "Zac Z.",
+          "elapsed_time": 848,
+          "moving_time": 848,
+          "start_date": "2019-07-24T12:36:45Z",
+          "start_date_local": "2019-07-24T07:36:45Z",
+          "rank": 39
+      },
+      {
+          "athlete_name": "Matthew R.",
+          "elapsed_time": 849,
+          "moving_time": 849,
+          "start_date": "2019-07-25T11:25:51Z",
+          "start_date_local": "2019-07-25T06:25:51Z",
+          "rank": 40
+      },
+      {
+          "athlete_name": "Ajit N.",
+          "elapsed_time": 849,
+          "moving_time": 849,
+          "start_date": "2019-07-25T12:34:25Z",
+          "start_date_local": "2019-07-25T07:34:25Z",
+          "rank": 40
+      },
+      {
+          "athlete_name": "Boyd G.",
+          "elapsed_time": 850,
+          "moving_time": 850,
+          "start_date": "2019-07-27T13:40:54Z",
+          "start_date_local": "2019-07-27T08:40:54Z",
+          "rank": 42
+      },
+      {
+          "athlete_name": "Josh T.",
+          "elapsed_time": 853,
+          "moving_time": 853,
+          "start_date": "2019-07-27T16:21:10Z",
+          "start_date_local": "2019-07-27T11:21:10Z",
+          "rank": 43
+      },
+      {
+          "athlete_name": "Jeffrey S.",
+          "elapsed_time": 854,
+          "moving_time": 854,
+          "start_date": "2019-07-27T12:28:45Z",
+          "start_date_local": "2019-07-27T07:28:45Z",
+          "rank": 44
+      },
+      {
+          "athlete_name": "Spenser G.",
+          "elapsed_time": 855,
+          "moving_time": 831,
+          "start_date": "2019-07-22T12:18:08Z",
+          "start_date_local": "2019-07-22T07:18:08Z",
+          "rank": 45
+      },
+      {
+          "athlete_name": "Steven H.",
+          "elapsed_time": 862,
+          "moving_time": 778,
+          "start_date": "2019-07-23T12:08:26Z",
+          "start_date_local": "2019-07-23T07:08:26Z",
+          "rank": 46
+      },
+      {
+          "athlete_name": "Greg F.",
+          "elapsed_time": 865,
+          "moving_time": 865,
+          "start_date": "2019-07-24T23:59:16Z",
+          "start_date_local": "2019-07-24T18:59:16Z",
+          "rank": 47
+      },
+      {
+          "athlete_name": "Colin C.",
+          "elapsed_time": 865,
+          "moving_time": 861,
+          "start_date": "2019-07-25T12:35:24Z",
+          "start_date_local": "2019-07-25T07:35:24Z",
+          "rank": 47
+      },
+      {
+          "athlete_name": "Josh H.",
+          "elapsed_time": 866,
+          "moving_time": 866,
+          "start_date": "2019-07-23T13:41:24Z",
+          "start_date_local": "2019-07-23T08:41:24Z",
+          "rank": 49
+      },
+      {
+          "athlete_name": "Omar V.",
+          "elapsed_time": 867,
+          "moving_time": 867,
+          "start_date": "2019-07-24T12:29:03Z",
+          "start_date_local": "2019-07-24T07:29:03Z",
+          "rank": 50
+      },
+      {
+          "athlete_name": "Kevin B.",
+          "elapsed_time": 870,
+          "moving_time": 870,
+          "start_date": "2019-07-25T11:38:17Z",
+          "start_date_local": "2019-07-25T06:38:17Z",
+          "rank": 51
+      },
+      {
+          "athlete_name": "Stephen B.",
+          "elapsed_time": 871,
+          "moving_time": 828,
+          "start_date": "2019-07-22T23:44:05Z",
+          "start_date_local": "2019-07-22T18:44:05Z",
+          "rank": 52
+      },
+      {
+          "athlete_name": "Randy C.",
+          "elapsed_time": 876,
+          "moving_time": 876,
+          "start_date": "2019-07-22T11:40:48Z",
+          "start_date_local": "2019-07-22T06:40:48Z",
+          "rank": 53
+      },
+      {
+          "athlete_name": "Miguel Z.",
+          "elapsed_time": 878,
+          "moving_time": 878,
+          "start_date": "2019-07-24T14:25:45Z",
+          "start_date_local": "2019-07-24T09:25:45Z",
+          "rank": 54
+      },
+      {
+          "athlete_name": "Dave S.",
+          "elapsed_time": 880,
+          "moving_time": 880,
+          "start_date": "2019-07-26T12:50:05Z",
+          "start_date_local": "2019-07-26T07:50:05Z",
+          "rank": 55
+      },
+      {
+          "athlete_name": "Katrina H.",
+          "elapsed_time": 881,
+          "moving_time": 881,
+          "start_date": "2019-07-28T13:04:16Z",
+          "start_date_local": "2019-07-28T08:04:16Z",
+          "rank": 56
+      },
+      {
+          "athlete_name": "Pete S.",
+          "elapsed_time": 882,
+          "moving_time": 882,
+          "start_date": "2019-07-27T12:46:07Z",
+          "start_date_local": "2019-07-27T07:46:07Z",
+          "rank": 57
+      },
+      {
+          "athlete_name": "Tommy W.",
+          "elapsed_time": 883,
+          "moving_time": 878,
+          "start_date": "2019-07-27T12:03:37Z",
+          "start_date_local": "2019-07-27T07:03:37Z",
+          "rank": 58
+      },
+      {
+          "athlete_name": "Yasmin C.",
+          "elapsed_time": 885,
+          "moving_time": 885,
+          "start_date": "2019-07-24T12:28:48Z",
+          "start_date_local": "2019-07-24T07:28:48Z",
+          "rank": 59
+      },
+      {
+          "athlete_name": "Jeff H.",
+          "elapsed_time": 885,
+          "moving_time": 885,
+          "start_date": "2019-07-26T11:06:08Z",
+          "start_date_local": "2019-07-26T06:06:08Z",
+          "rank": 59
+      },
+      {
+          "athlete_name": "Colin B.",
+          "elapsed_time": 885,
+          "moving_time": 885,
+          "start_date": "2019-07-26T11:06:10Z",
+          "start_date_local": "2019-07-26T06:06:10Z",
+          "rank": 59
+      },
+      {
+          "athlete_name": "Bart P.",
+          "elapsed_time": 885,
+          "moving_time": 874,
+          "start_date": "2019-07-27T12:06:36Z",
+          "start_date_local": "2019-07-27T07:06:36Z",
+          "rank": 59
+      },
+      {
+          "athlete_name": "Nate F.",
+          "elapsed_time": 886,
+          "moving_time": 844,
+          "start_date": "2019-07-24T19:57:58Z",
+          "start_date_local": "2019-07-24T14:57:58Z",
+          "rank": 63
+      },
+      {
+          "athlete_name": "Merced ⚡️ G.",
+          "elapsed_time": 887,
+          "moving_time": 887,
+          "start_date": "2019-07-24T00:16:08Z",
+          "start_date_local": "2019-07-23T19:16:08Z",
+          "rank": 64
+      },
+      {
+          "athlete_name": "Zander M.",
+          "elapsed_time": 888,
+          "moving_time": 803,
+          "start_date": "2019-07-23T11:32:35Z",
+          "start_date_local": "2019-07-23T06:32:35Z",
+          "rank": 65
+      },
+      {
+          "athlete_name": "Mason W.",
+          "elapsed_time": 888,
+          "moving_time": 888,
+          "start_date": "2019-07-27T12:06:32Z",
+          "start_date_local": "2019-07-27T07:06:32Z",
+          "rank": 65
+      },
+      {
+          "athlete_name": "Mitchell A.",
+          "elapsed_time": 889,
+          "moving_time": 804,
+          "start_date": "2019-07-23T11:32:35Z",
+          "start_date_local": "2019-07-23T06:32:35Z",
+          "rank": 67
+      },
+      {
+          "athlete_name": "Bill K.",
+          "elapsed_time": 889,
+          "moving_time": 889,
+          "start_date": "2019-07-28T12:42:54Z",
+          "start_date_local": "2019-07-28T07:42:54Z",
+          "rank": 67
+      },
+      {
+          "athlete_name": "Sammie S.",
+          "elapsed_time": 889,
+          "moving_time": 889,
+          "start_date": "2019-07-28T13:04:34Z",
+          "start_date_local": "2019-07-28T08:04:34Z",
+          "rank": 67
+      },
+      {
+          "athlete_name": "Ellen S.",
+          "elapsed_time": 892,
+          "moving_time": 887,
+          "start_date": "2019-07-27T12:13:59Z",
+          "start_date_local": "2019-07-27T07:13:59Z",
+          "rank": 70
+      },
+      {
+          "athlete_name": "Steven H.",
+          "elapsed_time": 894,
+          "moving_time": 894,
+          "start_date": "2019-07-23T12:59:34Z",
+          "start_date_local": "2019-07-23T07:59:34Z",
+          "rank": 71
+      },
+      {
+          "athlete_name": "Pam H.",
+          "elapsed_time": 895,
+          "moving_time": 814,
+          "start_date": "2019-07-23T11:32:33Z",
+          "start_date_local": "2019-07-23T06:32:33Z",
+          "rank": 72
+      },
+      {
+          "athlete_name": "Arnold E.",
+          "elapsed_time": 895,
+          "moving_time": 895,
+          "start_date": "2019-07-27T13:34:44Z",
+          "start_date_local": "2019-07-27T08:34:44Z",
+          "rank": 72
+      },
+      {
+          "athlete_name": "Alonso R.",
+          "elapsed_time": 896,
+          "moving_time": 896,
+          "start_date": "2019-07-28T19:42:27Z",
+          "start_date_local": "2019-07-28T14:42:27Z",
+          "rank": 74
+      },
+      {
+          "athlete_name": "Chris S.",
+          "elapsed_time": 904,
+          "moving_time": 875,
+          "start_date": "2019-07-27T12:09:08Z",
+          "start_date_local": "2019-07-27T07:09:08Z",
+          "rank": 75
+      },
+      {
+          "athlete_name": "Elaine C.",
+          "elapsed_time": 905,
+          "moving_time": 905,
+          "start_date": "2019-07-22T12:03:33Z",
+          "start_date_local": "2019-07-22T07:03:33Z",
+          "rank": 76
+      },
+      {
+          "athlete_name": "Daniel P.",
+          "elapsed_time": 905,
+          "moving_time": 905,
+          "start_date": "2019-07-28T14:26:50Z",
+          "start_date_local": "2019-07-28T09:26:50Z",
+          "rank": 76
+      },
+      {
+          "athlete_name": "Seth K.",
+          "elapsed_time": 906,
+          "moving_time": 805,
+          "start_date": "2019-07-25T11:46:47Z",
+          "start_date_local": "2019-07-25T06:46:47Z",
+          "rank": 78
+      },
+      {
+          "athlete_name": "Evan Y.",
+          "elapsed_time": 906,
+          "moving_time": 875,
+          "start_date": "2019-07-27T13:08:41Z",
+          "start_date_local": "2019-07-27T08:08:41Z",
+          "rank": 78
+      },
+      {
+          "athlete_name": "Keith G.",
+          "elapsed_time": 907,
+          "moving_time": 907,
+          "start_date": "2019-07-22T12:03:32Z",
+          "start_date_local": "2019-07-22T07:03:32Z",
+          "rank": 80
+      },
+      {
+          "athlete_name": "Marc F.",
+          "elapsed_time": 907,
+          "moving_time": 907,
+          "start_date": "2019-07-24T23:28:15Z",
+          "start_date_local": "2019-07-24T18:28:15Z",
+          "rank": 80
+      },
+      {
+          "athlete_name": "Scott G.",
+          "elapsed_time": 907,
+          "moving_time": 907,
+          "start_date": "2019-07-26T00:11:47Z",
+          "start_date_local": "2019-07-25T19:11:47Z",
+          "rank": 80
+      },
+      {
+          "athlete_name": "Lauren H.",
+          "elapsed_time": 909,
+          "moving_time": 879,
+          "start_date": "2019-07-28T15:35:44Z",
+          "start_date_local": "2019-07-28T10:35:44Z",
+          "rank": 83
+      },
+      {
+          "athlete_name": "Josh B.",
+          "elapsed_time": 910,
+          "moving_time": 879,
+          "start_date": "2019-07-27T13:08:38Z",
+          "start_date_local": "2019-07-27T08:08:38Z",
+          "rank": 84
+      },
+      {
+          "athlete_name": "Loren J.",
+          "elapsed_time": 912,
+          "moving_time": 912,
+          "start_date": "2019-07-25T11:30:11Z",
+          "start_date_local": "2019-07-25T06:30:11Z",
+          "rank": 85
+      },
+      {
+          "athlete_name": "Gregory T.",
+          "elapsed_time": 915,
+          "moving_time": 915,
+          "start_date": "2019-07-24T11:14:46Z",
+          "start_date_local": "2019-07-24T06:14:46Z",
+          "rank": 86
+      },
+      {
+          "athlete_name": "Jake D.",
+          "elapsed_time": 915,
+          "moving_time": 808,
+          "start_date": "2019-07-24T11:21:59Z",
+          "start_date_local": "2019-07-24T06:21:59Z",
+          "rank": 86
+      },
+      {
+          "athlete_name": "Tom P.",
+          "elapsed_time": 921,
+          "moving_time": 917,
+          "start_date": "2019-07-25T11:53:06Z",
+          "start_date_local": "2019-07-25T06:53:06Z",
+          "rank": 88
+      },
+      {
+          "athlete_name": "Tim B.",
+          "elapsed_time": 921,
+          "moving_time": 921,
+          "start_date": "2019-07-28T12:34:00Z",
+          "start_date_local": "2019-07-28T07:34:00Z",
+          "rank": 88
+      },
+      {
+          "athlete_name": "Mark V.",
+          "elapsed_time": 922,
+          "moving_time": 922,
+          "start_date": "2019-07-23T23:34:02Z",
+          "start_date_local": "2019-07-23T18:34:02Z",
+          "rank": 90
+      },
+      {
+          "athlete_name": "Nick S.",
+          "elapsed_time": 925,
+          "moving_time": 916,
+          "start_date": "2019-07-25T15:32:58Z",
+          "start_date_local": "2019-07-25T10:32:58Z",
+          "rank": 91
+      },
+      {
+          "athlete_name": "Raynor C.",
+          "elapsed_time": 926,
+          "moving_time": 926,
+          "start_date": "2019-07-25T11:27:37Z",
+          "start_date_local": "2019-07-25T06:27:37Z",
+          "rank": 92
+      },
+      {
+          "athlete_name": "Tim W.",
+          "elapsed_time": 927,
+          "moving_time": 927,
+          "start_date": "2019-07-23T23:46:46Z",
+          "start_date_local": "2019-07-23T18:46:46Z",
+          "rank": 93
+      },
+      {
+          "athlete_name": "Ashley S.",
+          "elapsed_time": 928,
+          "moving_time": 837,
+          "start_date": "2019-07-24T11:21:59Z",
+          "start_date_local": "2019-07-24T06:21:59Z",
+          "rank": 94
+      },
+      {
+          "athlete_name": "Addie D.",
+          "elapsed_time": 928,
+          "moving_time": 928,
+          "start_date": "2019-07-24T21:54:32Z",
+          "start_date_local": "2019-07-24T16:54:32Z",
+          "rank": 94
+      },
+      {
+          "athlete_name": "Drew W.",
+          "elapsed_time": 928,
+          "moving_time": 928,
+          "start_date": "2019-07-25T11:27:39Z",
+          "start_date_local": "2019-07-25T06:27:39Z",
+          "rank": 94
+      },
+      {
+          "athlete_name": "Arik Y.",
+          "elapsed_time": 928,
+          "moving_time": 928,
+          "start_date": "2019-07-25T12:15:08Z",
+          "start_date_local": "2019-07-25T07:15:08Z",
+          "rank": 94
+      },
+      {
+          "athlete_name": "Spencer R.",
+          "elapsed_time": 928,
+          "moving_time": 928,
+          "start_date": "2019-07-26T17:12:04Z",
+          "start_date_local": "2019-07-26T12:12:04Z",
+          "rank": 94
+      },
+      {
+          "athlete_name": "Shawn L.",
+          "elapsed_time": 930,
+          "moving_time": 899,
+          "start_date": "2019-07-25T15:32:58Z",
+          "start_date_local": "2019-07-25T10:32:58Z",
+          "rank": 99
+      },
+      {
+          "athlete_name": "Shawn L.",
+          "elapsed_time": 930,
+          "moving_time": 899,
+          "start_date": "2019-07-25T15:32:58Z",
+          "start_date_local": "2019-07-25T10:32:58Z",
+          "rank": 99
+      }
+  ]
+}

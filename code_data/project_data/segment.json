@@ -1,0 +1,46 @@
+{
+    "id": 841243,
+    "resource_state": 3,
+    "name": "S. Congress Bridge to MOPAC Bridge (North)",
+    "activity_type": "Run",
+    "distance": 2970.98,
+    "average_grade": -0.2,
+    "maximum_grade": 15,
+    "elevation_high": 140.2,
+    "elevation_low": 130.4,
+    "start_latlng": [
+        30.263015044952564,
+        -97.74510843737151
+    ],
+    "end_latlng": [
+        30.27470514651152,
+        -97.77043290609596
+    ],
+    "start_latitude": 30.263015044952564,
+    "start_longitude": -97.74510843737151,
+    "end_latitude": 30.27470514651152,
+    "end_longitude": -97.77043290609596,
+    "climb_category": 0,
+    "city": "Austin",
+    "state": "TX",
+    "country": "United States",
+    "private": false,
+    "hazardous": false,
+    "starred": false,
+    "created_at": "2011-11-28T18:24:37Z",
+    "updated_at": "2019-07-28T08:14:25Z",
+    "total_elevation_gain": 57.09,
+    "map": {
+        "id": "s841243",
+        "polyline": "yvuwD|yqsQEj@o@jCcAhCMfAA`AG`@AXKRg@dBa@tB[r@Wt@a@rBHPRLZHLJAP]bBUp@]pASd@ILk@b@o@nAq@b@GJGP[lB?x@Ab@MbAAh@]bC]rAK|@GTMh@Yx@Q`Ak@~AS^Sf@w@dC]v@s@tB]r@a@n@Md@Il@[v@i@`AsBrFc@bBATFpAGh@Md@[x@]nBa@pAMr@ARa@pAYlAQb@U`@Od@g@d@k@jA]j@}@nBe@l@uAvD}AjCQNQBOGMMQGe@Ee@KkAOSCQDONa@l@m@lAoA|AQ^",
+        "resource_state": 3
+    },
+    "effort_count": 71024,
+    "athlete_count": 11972,
+    "star_count": 17,
+    "athlete_segment_stats": {
+        "pr_elapsed_time": null,
+        "pr_date": null,
+        "effort_count": 0
+    }
+}
