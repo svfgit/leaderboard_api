@@ -35,6 +35,9 @@ class LeaderboardAPI(object):
 			<a href='/eventsForTimeRange?begin=7/21/19&end=8/21/19'>Events for a time range</a><br>
 			<a href='/eventsForTempRange?begin=30&end=40'>Events for a temperature range</a><br>
 			<a href='/weatherForDateRange?begin=7/21/19&end=8/21/19'>Weather during date range</a><br><br>
+			
+			Bonus #3: Injestion API
+			<a href='/testInjest'>Click here to test full Data Export and Injest via APIs</a><br>
 		"""
 	
 	@cherrypy.expose
@@ -59,6 +62,44 @@ class LeaderboardAPI(object):
 		tempDatesSorted = sorted(tempDates, key = lambda i: i["properties"]["timestamp"])
 
 		return formatJSON(tempDatesSorted)
+
+# Injest API method #1, allows to export the data from the system
+	@cherrypy.expose
+	def dataExport(self):
+		return formatJSON(data)
+
+	# Injest API method #2, allows to upload new data to the system
+	@cherrypy.expose
+	def dataInjest(self, data):
+		try:
+			loadJSONString(data)
+			return formatJSON({"status":"success"})
+		except:
+			return formatJSON({"status":"failure"})
+	
+	@cherrypy.expose
+	def testInjest(self):
+
+		# Stores the length of database (in JSON) before the refresh.
+		# This is a sanity check, since we're refreshing the DB with
+		# The exact same data, the before / after lengths should be
+		# identical.
+		dataLengthPrior = len(formatJSON(data))
+
+		# Call the Export API to dump the entire database
+		importData = requests.get(url="http://127.0.0.1:8080/dataExport")
+		
+		# Call the Injest API to refresh the entire DB with new data
+		requests.post(url="http://127.0.0.1:8080/dataInjest", params={"data":importData})
+		
+		# Check the length of new DB as JSON
+		dataLengthAfter = len(formatJSON(data)) 
+
+		# Create a debug message to prove the APIs are working.
+		debug = "Data length before and after export:"+ str(dataLengthPrior) + ", " + str(dataLengthAfter)
+
+		return formatJSON({"status":"success", "debug":debug})
+
 
 cherrypy.server.socket_port = 8080
 cherrypy.server.socket_host = '0.0.0.0'
