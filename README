@@ -1,0 +1,47 @@
+ Welcome to the Leaderboard API! By Sal (svferro@gmail.com)
+
+ Some notes:
+ 	- This wasn't designed to be 'production quality'.  Instead I wanted
+			to do something what was small, concise, simple (and fun!)
+
+	- For something 'production quality' 
+		- Better conformance to standards like REST and OpenAPI
+ 		- I would probably use a real database to store an query data.
+			With indexes on the data so this can scale.  This implementation has
+			a homegrown 'JSON DB' that will do full scans of the entire DB for each
+			query, so perfomance will degrade quickly O(n) as the data grows. 
+ 		- Much more error handling in the APIs, right now any failure will just output
+			a stack trace to stdout
+		- Unit tests to accompany the code
+		- Code styling/format:  I would match the code style to that of the standards of
+			whichever team.  ie - I used camelCase here (habit), but happy to use snake_case ala PEP8
+			instead.
+		- Much more commenting and formal Python API doc comments for automatic API
+			doc generation.  I felt for this example it would have bloated the code way too
+			much, so I tended toward minimal comments, and tried to structure the code concisely.
+
+ 	- In 'jsondb.py' you'll find a ~ 50 lines-of-code JSON compatible DB implementation to power this.
+			Not designed for performance, but was fun to make and useful for simple things!  It does 
+			support a python/lambda style query language for filtering and allows for sorting.
+
+	- Interpretation of requirements: 
+ 			In general, I tend toward quickly whipping-up demos and prototypes, similair to this
+			to illustrate a kind of MVP, then review with the stakeholders and iterate to something
+			that better matches requirements. As requirements can always be subjectively interpreted 
+			in different ways, which I did here as well - I feel normally it's better/faster to be agile,
+			iterate often and quickly, demo often so that it matches needs quickly.  I'm familiair with 
+ 			Waterfall approaches to getting 'more perfect' requirements as well - but didn't use that approach
+			here. Although happy to do that as well if needed - in that case I would have spent much more 
+			time clarifying requirements (ie, how time and events are calculated here for example, specific
+ 			parameters for APIs, standardizing on one of many HTTP-Api standards)
+
+To test out this code:
+
+git clone https://github.com/svfgit/leaderboard_api.git
+cd leaderboard_api
+./run.sh
+
+# open a web browser to http://localhost:8080
+# A web page will show with links you can click to test! And some instructions there to kick the tires.
+
+# Ctrl-C in your docker window when complete to kill the web server and delete container
